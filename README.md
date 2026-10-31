@@ -15,4 +15,4 @@
 - Python 3.x
 - Terminal with ANSI color support (Windows Terminal, PowerShell)
 
-## Usage
+### COPYRIGHT (C) akettunen 2026
