@@ -15,4 +15,7 @@
 - Python 3.x
 - Terminal with ANSI color support (Windows Terminal, PowerShell)
 
-### COPYRIGHT (C) akettunen 2026
+## Pictures
+<img width="1093" height="93" alt="image" src="https://github.com/user-attachments/assets/748ace95-96d0-4425-8775-84884528e15e" />
+
+## COPYRIGHT (C) akettunen 2026
