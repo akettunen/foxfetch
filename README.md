@@ -15,7 +15,7 @@
 - Python 3.x
 - Terminal with ANSI color support (Windows Terminal, PowerShell)
 
-## Rust
+## Rust (recommended)
 I have also made a identical program using Rust.
 - https://github.com/akettunen/foxfetch-rs
 
